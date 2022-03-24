@@ -4,7 +4,7 @@
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
-![ImageslandingResize.PNG](ImageslandingResize.PNG)
+![weather_website.PNG](https://github.com/RobSalazar/Web-Design-Challenge/blob/main/images/weather_website.PNG)
 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
