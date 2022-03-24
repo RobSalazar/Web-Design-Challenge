@@ -19,12 +19,13 @@ In building this dashboard, we'll create individual pages for each plot and a me
 This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
 
 #### <a id="landing-page"></a>Landing page
-
+---
 
 Small screen:
 
 ![landing_small.PNG](images/landing_small.PNG)
-￼
+
+- - -
 
 #### <a id="comparisons-page"></a>Comparisons page
 
@@ -35,6 +36,8 @@ Large screen:
 Small screen:
 
 ![comparison_small.PNG](images/comparison_small.PNG)
+
+- - -
 
 #### <a id="data-page"></a>Data page
 
@@ -47,6 +50,8 @@ Small screen:
 
 ![data_small.PNG](images/data_small.PNG)
 
+- - -
+
 #### <a id="visualization-pages"></a>Visualization pages
 
 There are four of these, one for each visualization. Here's an example of one:
@@ -58,6 +63,8 @@ Large screen:
 Small screen:
 
 ![plots_small.PNG](images/plots_small.PNG)
+
+- - -
 
 #### <a id="navigation-menu"></a>Navigation menu
 
