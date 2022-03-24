@@ -78,4 +78,3 @@ Navigation Menu:
 
 OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
 Data provided in startup file used.
-- - -
