@@ -20,60 +20,55 @@ This section contains screenshots of each page that must be built, at varying sc
 
 #### <a id="landing-page"></a>Landing page
 
-Large screen:
-
-![Landing page large screen](Images/landingResize.png)
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![landing_small.PNG](images/landing_small.PNG)
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![comparison_large.PNG](images/comparison_large.PNG)
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![comparison_small.PNG](images/comparison_small.PNG)
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+![data_large.PNG](images/data_large.PNG)
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![data_small.PNG](images/data_small.PNG)
 
 #### <a id="visualization-pages"></a>Visualization pages
 
-You'll build four of these, one for each visualization. Here's an example of one:
+There are four of these, one for each visualization. Here's an example of one:
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![plots_large.PNG](images/plots_large.PNG)
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![plots_small.PNG](images/plots_small.PNG)
 
 #### <a id="navigation-menu"></a>Navigation menu
 
-Large screen:
-![nav menu large screen](Images/nav-lg.png)
+Navigation Menu:
+![nav_menu.PNG](images/nav_menu.PNG)
 
-Small screen:
-![nav menu small screen](Images/nav-sm.png)
 
 - - -
 
 ## References
 
 OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
-
+Data provided in startup file used.
 - - -
